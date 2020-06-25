@@ -1,0 +1,160 @@
+.navigation-a {
+    color: black !important;
+    text-decoration: none;
+}
+
+.navigation-a:hover {
+    color: black !important;
+    text-decoration: none;
+}
+
+/* Navigation */
+.navigation {
+    position: relative;
+
+    width: 1920px;
+    height: 75px;
+}
+
+/* Записаться */
+.sign-up {
+    position: absolute;
+    left: 263px;
+    right: 1520px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* Услуги */
+.services {
+    position: absolute;
+    left: 500px;
+    right: 1340px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* Каталоги */
+.catalogs {
+    position: absolute;
+    left: 680px;
+    right: 1131px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* Новости */
+.news {
+    position: absolute;
+    left: 889px;
+    right: 930px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* О нас */
+.about-us {
+    position: absolute;
+    left: 1090px;
+    right: 765px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* Обратная связь */
+.feedback {
+    position: absolute;
+    left: 1255px;
+    right: 479px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+/* Контакты */
+.contacts {
+    position: absolute;
+    left: 1541px;
+    right: 264px;
+    top: 23px;
+    bottom: 878px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: black;
+
+    z-index: 1;
+}
+
+.navigation-background {
+    position: absolute;
+
+    width: 1920px;
+    height: 75px;
+
+    background-color: #E3E3E3;
+}
+

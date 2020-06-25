@@ -1,0 +1,10 @@
+.Catalogs{
+    position: absolute;
+    left: 360px;
+    right: 360px;
+    top: 37.5px;
+    bottom: 37.5px;
+
+    width: 1200px;
+    height: 600px;
+}

@@ -1,0 +1,64 @@
+﻿.header-a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.header-a:hover {
+    color: white !important;
+    text-decoration: none;
+}
+
+/* Header */
+header {
+    position: relative;
+
+    width: 1920px;
+    height: 150px;
+}
+
+/* AutoService */
+.header-text {
+    position: absolute;
+    left: 760px;
+    right: 759px;
+    top: 31px;
+    bottom: 961px;
+
+    width: 405px;
+    height: 88px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 75px;
+    line-height: 88px;
+
+    color: white;
+
+    z-index: 1;
+}
+
+/* Profile icon */
+.profile-icon {
+    position: absolute;
+    left: 1750px;
+    right: 100px;
+    top: 40px;
+    bottom: 970px;
+
+    width: 70px;
+    height: 70px;
+
+    z-index: 1;
+}
+
+/* Header background */
+.header-background {
+    position: absolute;
+
+    width: 1920px;
+    height: 150px;
+
+    background-color: black;
+}
+

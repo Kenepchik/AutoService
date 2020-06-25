@@ -1,0 +1,260 @@
+.block{
+    position: relative;
+    width: 1119px;
+    height: 100px;
+    left: 41px;
+    top: 110px;
+
+    background: #e3e3e3;
+}
+
+.number{
+    position: relative;
+    left: 41px;
+
+    width: 100px;
+    height: 100px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.separator-horizontal{
+    position: relative;
+    left: 100px;
+    top: -53px;
+
+    width: 1009px;
+    height: 5px;
+
+    background: #c4c4c4;
+}
+
+.separator-vertical{
+    width: 5px;
+    height: 89px;
+
+    background: #C4C4C4;
+}
+
+.sv1{
+    position: relative;
+    left: 571px;
+    top: -100px;
+}
+
+.sv2{
+    position: absolute;
+    left: 726px;
+    top: 6px;
+}
+
+.sv3{
+    position: absolute;
+    left: 801px;
+    top: 6px;
+}
+
+.sv4{
+    position: absolute;
+    left: 926px;
+    top: 6px;
+}
+
+.verh{
+    position: absolute;
+    top: 12px;
+}
+
+.name{
+    position: absolute;
+    left: 101px;
+
+    width: 470px;
+    height: 48px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.complexity{
+    position: absolute;
+    left: 576px;
+
+    width: 150px;
+    height: 48px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.price{
+    position: absolute;
+    left: 731px;
+
+    width: 70px;
+    height: 48px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.guarantee{
+    position: absolute;
+    left: 806px;
+
+    width: 120px;
+    height: 48px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.master{
+    position: absolute;
+    left: 931px;
+
+    width: 178px;
+    height: 48px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.niz{
+    position: absolute;
+    top: 62px;
+}
+
+.description{
+    position: absolute;
+    left: 101px;
+
+    width: 470px;
+    height: 47px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.complexity-value{
+    position: absolute;
+    left: 576px;
+
+    width: 150px;
+    height: 47px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.price-value{
+    position: absolute;
+    left: 731px;
+
+    width: 70px;
+    height: 47px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.guarantee-value{
+    position: absolute;
+    left: 806px;
+
+    width: 120px;
+    height: 47px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+.master-value{
+    position: absolute;
+    left: 931px;
+
+    width: 178px;
+    height: 47px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
